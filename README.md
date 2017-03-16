@@ -4,7 +4,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur](http://i.imgur.com/8f4KSFj.mp4)
+[![Imgur]](http://i.imgur.com/8f4KSFj.mp4)
 
 GIF created with [LiceC ap](http://www.cockos.com/licecap/).
 
