@@ -4,6 +4,7 @@
 
 Here's a walkthrough of implemented user stories:
 
+![Image](http://i.imgur.com/8f4KSFj.mp4
 <img src='http://i.imgur.com/8f4KSFj.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceC ap](http://www.cockos.com/licecap/).
